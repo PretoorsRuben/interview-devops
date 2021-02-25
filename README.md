@@ -9,7 +9,7 @@
 ## The solution
   * In your solution please emphasize on readability, maintainability and DevOps methodologies. We expect a clear way to recreate your setup.
 
-  * Use Ansible/Chef/Puppet as the configuration management tool.
+  * Use the configuration management tool of your choice.
   * The infrastructure provider should be AWS.
   * It should run on Centos 7, using security best practices.
   * Should leverage community roles/cookbooks/modules when it make sense.
